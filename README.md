@@ -128,14 +128,9 @@ src/
 `Writer` and `Reader` are stateful classes; the top-level helpers in `lib.mo`
 are pure functions that build on them.
 
-## Copyright
-
-MR Research AG, 2026
-
 ## Authors
 
-Main author: AndyGura
-Contributors: TimoHanke
+Main author: Menese contributors
 
 ## License
 

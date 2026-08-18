@@ -9,9 +9,7 @@
 /// little-endian length prefix. Vectors are length-prefixed; fixed arrays are
 /// not.
 ///
-/// Copyright: 2026 MR Research AG
-/// Main author: AndyGura
-/// Contributors: TimoHanke
+/// Main author: Menese contributors
 
 import Runtime "mo:core/Runtime";
 import Nat8 "mo:core/Nat8";
