@@ -1,18 +1,18 @@
 [package]
-name = ""
-version = "0.0.1"
-description = ""
-repository = "https://github.com/research-ag/..."
-keywords = [ ]
+name = "borsh"
+version = "0.1.0"
+description = "Pure-Motoko Borsh binary serialization and deserialization codec"
+repository = "https://github.com/research-ag/motoko-borsh"
+keywords = [ "borsh", "serialization", "solana", "near", "codec" ]
 license = "Apache-2.0"
 
 [dependencies]
-core = "2.6.1"
+core = "2.4.0"
 
 [dev-dependencies]
 test = "2.1.2"
 bench-helper = "0.0.3"
 
 [toolchain]
-moc = "1.14.0"
+moc = "1.4.1"
 pocket-ic = "15.0.0"
