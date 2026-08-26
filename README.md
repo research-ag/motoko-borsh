@@ -93,7 +93,7 @@ mops test
 Run
 
 ```
-mops bench --replica pocket-ic
+mops bench
 ```
 
 ### Format the code
