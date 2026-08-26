@@ -16,3 +16,7 @@ bench-helper = "0.0.3"
 [toolchain]
 moc = "1.4.1"
 pocket-ic = "15.0.0"
+wasm-opt = "132"
+
+[optimize]
+args = ["--all-features"]
